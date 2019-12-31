@@ -3,4 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+background: '/images/IMG_8506.JPG'
 ---

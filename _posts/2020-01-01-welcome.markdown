@@ -9,7 +9,7 @@ Happy New Year for 2020.
 
 This site is an attempt to capture our birding efforts during the five year [Atlas project](atlasnz-home). This project was set up by [Birds New Zealand](osnz-home), and is run in conjunction with [Cornell University](cornell-home), and uses the eBird app ([iOS](ebird-app-iOS)/[android](ebird-app-an)) for mobile data collection, and is powered by the larger [eBird](ebird-home) website.
 
-The "our" above, refers to my partner and I, who are novice birders, and are keen to take on the challenges of the NZ Bird Atlas for our patch in the Manawatu. 
+The "our" above, refers to my partner and [I](about-me), who are novice birders and are keen to take on the challenges of the NZ Bird Atlas for our patch in the Manawatu. 
 
 We have been collecting data for the Atlas since July 2019, and have been looking at ways to maximise our efforts in order to support the atlas goal *“to record the presence of all bird species that occur within each square, during each of the four seasons [where] observers should aim to survey as many of the different vegetation or habitat types within each grid square as possible, and to submit a minimum of one complete bird checklist for each location surveyed”* (Ray and McArthur, 2019)[1].
 
@@ -17,9 +17,11 @@ The [atlas](atlasnz-home) website provides metrics to gauge progress at the scal
 
 As were are only novices, we acknowledge that our bird ID skills need work. We generally post photos and audio, along with our ID's, on the ebird app whenever we come across a species we haven't identified before. This has enabled others to correct us through comments on the website, thus improving the data collected for the Atlas, and improving our ID skills into the bargain.
 
+The types of posts you will see here will relate to the use of 
+
 ---
 
-[1] Ray, S. and McArthur, N. 2019. New Zealand Bird Atlas Handbook. Wildlife Management International Ltd, Blenheim
+[[1] Ray, S. and McArthur, N. 2019. New Zealand Bird Atlas Handbook. Wildlife Management International Ltd, Blenheim](atlas-handbook)
 
 [atlasnz-home]:  https://ebird.org/atlasnz/home
 [ebird-home]:    https://ebird.org/
@@ -27,3 +29,4 @@ As were are only novices, we acknowledge that our bird ID skills need work. We g
 [cornell-home]:  https://www.birds.cornell.edu/home/
 [ebird-app-iOS]: https://apps.apple.com/nz/app/ebird/id988799279
 [ebird-app-an]: https://play.google.com/store/apps/details?id=edu.cornell.birds.ebird&hl=en
+[about-me]:      https://ebird.org/atlasnz/profile/MTQwMDcyNQ

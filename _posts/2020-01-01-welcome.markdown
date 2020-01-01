@@ -17,7 +17,7 @@ The [atlas](https://ebird.org/atlasnz/home NZ Atlas){:target="_blank"} website p
 
 As were are only novices, we acknowledge that our bird ID skills need work. We generally post photos and audio, along with our ID's, on the ebird app whenever we come across a species we haven't identified before. This has enabled others to correct us through comments on the website, thus improving the data collected for the Atlas, and improving our ID skills into the bargain.
 
-This blog will be a mixture of narrative and data analysis (using R and QGIS, primarily), with the hope that what we learn will be of benefit to others who are also partnering in the endeavour to collecdt data for the NZ Bird Atlas.
+This blog will be a mixture of narrative and data analysis (using R and QGIS, primarily), with the hope that what we learn will be of benefit to others who are also partnering in the endeavour to collect data for the NZ Bird Atlas.
 
 Happy birding.
 

@@ -8,7 +8,6 @@ background: '/images/IMG_8535.JPG'
 Happy New Year for 2020.
 
 This site is an attempt to capture our birding efforts during the five year [Atlas project](atlasnz-home){:target="_blank"}. This project was set up by [Birds New Zealand](osnz-home){:target="_blank"}, and is run in conjunction with [Cornell University](cornell-home){:target="_blank"}, and uses the eBird app ([iOS](ebird-app-iOS){:target="_blank"}/[android](ebird-app-an){:target="_blank"}) for mobile data collection, and is powered by the larger [eBird](ebird-home){:target="_blank"} website.
-
 [atlasnz-home]:  https://ebird.org/atlasnz/home
 [ebird-home]:    https://ebird.org/
 [osnz-home]:     https://www.birdsnz.org.nz/
@@ -17,13 +16,11 @@ This site is an attempt to capture our birding efforts during the five year [Atl
 [ebird-app-an]: https://play.google.com/store/apps/details?id=edu.cornell.birds.ebird&hl=en
 
 The "our" above, refers to my partner and [I](about-me){:target="_blank"}, who are novice birders and are keen to take on the challenges of the NZ Bird Atlas for our patch in the Manawatu. 
-
 [about-me]:      https://ebird.org/atlasnz/profile/MTQwMDcyNQ
 
 We have been collecting data for the Atlas since July 2019, and have been looking at ways to maximise our efforts in order to support the atlas goal *“to record the presence of all bird species that occur within each square, during each of the four seasons [where] observers should aim to survey as many of the different vegetation or habitat types within each grid square as possible, and to submit a minimum of one complete bird checklist for each location surveyed”* (Ray and McArthur, 2019)[^1].
 
 The [atlas](atlasnz-home){:target="_blank"} website provides metrics to gauge progress at the scale of regions, districts and grid squares, but it is harder to establish what habitats have, and haven't been done. To better target our effort, we have downloaded our checklists, and scraped grid square data from the [atlas](atlasnz-home){:target="_blank"}, to see what has and hasn't been done i.e. identifying the gaps in the grid squares. Using this, it is easier to understand where our effort will have the best outcomes.
-
 [atlasnz-home]:  https://ebird.org/atlasnz/home NZ Atlas
 
 As were are only novices, we acknowledge that our bird ID skills need work. We generally post photos and audio, along with our ID's, on the ebird app whenever we come across a species we haven't identified before. This has enabled others to correct us through comments on the website, thus improving the data collected for the Atlas, and improving our ID skills into the bargain.
@@ -32,6 +29,5 @@ The types of posts you will see here will relate to the use of
 
 ---
 
-[[^1] Ray, S. and McArthur, N. 2019. New Zealand Bird Atlas Handbook. Wildlife Management International Ltd, Blenheim](atlas-handbook){:target="_blank"}
-
+[[1] Ray, S. and McArthur, N. 2019. New Zealand Bird Atlas Handbook. Wildlife Management International Ltd, Blenheim](atlas-handbook){:target="_blank"}
 [atlas-handbook]: https://birdatlas.co.nz/assets/0ee293e775/New-Zealand-Bird-Atlas-Handbook-version-1.pdf

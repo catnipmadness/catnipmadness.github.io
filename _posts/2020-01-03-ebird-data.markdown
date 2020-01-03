@@ -10,9 +10,7 @@ The NZ Bird Atlas website provides good data products and visualisations, with t
 
 As an indicator of effort across New Zealand, these maps are a great tool, and the motivation is to turn the squares yellow (or darker colours indicating more cummulative effort in a grid square) by completing checklists within the boundaries of each grid. This particular style of visualisation, unfortunately, also has a serious drawback - it provides no indication as to the completeness of habitat coverage within a square. This may have been a deliberate choice when the website was set up, with initial effort focussed on getting people involved, without too much complication in what the effort map was showing.
 
-
-
-This lead me down a path of trying to download the data myself, and use R and QGIS to process and analyse the data for my own attempt at establishing where the blanks were from a habitat perspective. 
+This led me down a path of trying to download the data myself, using R and QGIS to process and analyse the data, in an attempt at establishing where the blanks were from a habitat perspective. 
 
 This post covers getting that data from the [NZ Bird Atlas website](https://ebird.org/atlasnz "NZ Bird Atlas"){:target="_blank"}).
 

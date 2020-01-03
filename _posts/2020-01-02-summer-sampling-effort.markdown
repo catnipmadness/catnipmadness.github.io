@@ -3,7 +3,7 @@ layout: post
 title:  "Summer sampling effort to date"
 date:   2020-01-01 22:05:00 +1300
 categories: nzatlas ebird mapbook GIS RStudio
-background: '/images/IMG_8535.JPG'
+background: '/images/IMG_8665.JPG'
 ---
 
 So, how have we been assessing our sampling effort?

@@ -42,7 +42,7 @@ plugins:
 
 
 # Google Analytics
-# google_analytics: UA-155176580-1
+google_analytics: UA-155176580-1
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -32,9 +32,9 @@ The options on the right-hand side of the [My eBird page](https://ebird.org/atla
 
 There is no 'Download my data' option! 
 
-This is what generated the confusion - one part of the website said go here to download, but there was no download "there". It was then I realised there were two "eBird" websites - the **default** one which focussed mainly on North American birding, and the NZ Bird Atlas which is a site built on top of the default one. These two sites have different options and different visualisations. It all became clear. 
+This is what generated the confusion - one part of the website said go *here* to download, but there was no download *there*. It was then I realised that there were two "eBird" websites - the **default** one which focussed mainly on North American birding, and the NZ Bird Atlas which is a site built on top of the default one. These two sites have different options and different visualisations. It all became clear. 
 
-The download my data option exists on the **default** [My eBird page](https://ebird.org/atlasnz/myebird "My eBird"){:target="_blank"}, but not on the NZ Bird Atlas site.
+The download my data option exists on the **default** [My eBird page](https://ebird.org/myebird "My eBird"){:target="_blank"}, but not on the NZ Bird Atlas [version](https://ebird.org/atlasnz/myebird "AtlasNZ My eBird"){:target="_blank"}
 
 ![atlasnz-my-eBird]({{site.url}}/images/ebird-20200103-my-ebird.png "My eBird menu on right-hand side of page")
 
@@ -46,4 +46,6 @@ This zip file contains a .csv file of all the checklist data **you** have collec
 
 My next post will describe processing this data in preparation for mapping (as there are a few gotcha's along the way).
 
-What is still not adressed at this point is what other birders are collecting for the NZ Bird Atlas. As a download only contains your individual data, it is difficult to assess what others have done, save for the tables and maps on the website. This will be covered later, also.
+What is still not adressed at this point is what other birders are collecting for the NZ Bird Atlas. As a download only contains your individual data, it is difficult to assess what others have done, save for the tables and maps on the website. This will be covered later.
+
+To be continued...

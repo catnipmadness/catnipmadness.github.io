@@ -84,7 +84,7 @@ I'll discuss species identification in a later post and come back to this point 
 
 With this information, it is now possible to load the data into your tool of choice, make your data selections based on what you have in your checklists, and prepare maps or other visualisations of your choice.
 
-In my next post, I will talk about how I am using the R Scripting language to process these data for the purposes of understanding checklist effort and habitat coverage, by season.
+In my next post, I will talk about how to use the R Scripting language to process these data for the purposes of understanding checklist effort and habitat coverage, by season.
 
 ------
 
